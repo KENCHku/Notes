@@ -25,4 +25,9 @@
         android:name="kg.geeks.notes.ui.home.NotesFragment"
         android:label="fragment_notes"
         tools:layout="@layout/fragment_notes" />
+    <fragment
+        android:id="@+id/navigation_profile"
+        android:name="kg.geeks.notes.ui.profile.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
 </navigation>
